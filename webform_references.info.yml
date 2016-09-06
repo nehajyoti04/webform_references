@@ -1,0 +1,10 @@
+name: Webform References
+type: module
+description: "Defines a webform component type for referencing the node/term/user."
+package: Webform
+version: '8.x-0.x-dev'
+core: '8.x'
+dependencies:
+  - webform
+project: 'webform_references'
+datestamp: 1472644262

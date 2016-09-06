@@ -1,0 +1,7 @@
+webform_references.node:
+  path: '/webform_references/node/autocomplete/{nid}'
+  defaults:
+     _form: '\Drupal\webform_references\Controller\WebformReferencesController::webform_references_node_autocomplete'
+#     _title: 'Delete player'
+#  requirements:
+#    _permission: 'administer mp3player'
